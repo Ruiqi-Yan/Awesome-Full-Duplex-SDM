@@ -108,5 +108,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Survey
 | Title | Year | Relevant&nbsp;Resources |
 |:--|:-:|:-:|
-| **Speaking While Listening: A Survey and Empirical Audit of Full-Duplex Spoken Dialogue Systems** | 2026 | [Github](https://github.com/DuplexLM/DuplexSurvey) |
+| **A Survey of Full-Duplex Spoken Dialogue Systems: Architectural Hierarchy, Interaction Ontology, and Decision State Machine** | 2026 | [arXiv](https://arxiv.org/abs/2606.19453)/[Github](https://github.com/DuplexLM/DuplexSurvey) |
 | **From Turn-Taking to Synchronous Dialogue: A Survey of Full-Duplex Spoken Language Models** | 2025 | [arXiv](https://arxiv.org/abs/2509.14515)/[Github](https://github.com/elpsykongloo/FD-SLMs) |
+
+
