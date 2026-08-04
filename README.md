@@ -39,6 +39,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents** | 2026 | Cascaded | — | [arXiv](https://arxiv.org/abs/2608.01119) |
 | **Qwen Audio Agent** | 2026 | Cascaded | Code | [Github](https://github.com/QwenAudio/qwen-audio-agent) |
 | **Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models** | 2026 | Method | Code | [arXiv](https://arxiv.org/abs/2604.14920)/[Github](https://github.com/MM-Speech/DualAxisRM) |
 | **DuplexOmni: Real-Time Listening, Seeing, Thinking, and Speaking for Full-Duplex Interaction** | 2026 | End-to-end (omni) | Code | [arXiv](https://arxiv.org/abs/2606.09186)/[Github](https://github.com/MuyeHuang/DuplexOmni) |
