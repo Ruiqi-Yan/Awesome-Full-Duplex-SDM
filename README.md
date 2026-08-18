@@ -30,6 +30,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Datasets
 | Title | Year | Open | Relevant&nbsp;Resources |
 |:--|:-:|:-:|:-:|
+| **DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues** | 2026 | Data + code | [arXiv](https://arxiv.org/abs/2607.26178)/[Github](https://github.com/duplexgen/duplexgen-code)/[Huggingface](https://huggingface.co/DuplexGen)/[Demo](https://duplexgen.github.io/) |
 | **DuplexChat** | 2026 | Data + code | [Github](https://github.com/sarulab-speech/DuplexChat)/[Huggingface](https://huggingface.co/datasets/sarulab-speech/DuplexChat) |
 | **SOMMELIER: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models** | 2026 | Code (pipeline) | [arXiv](https://arxiv.org/abs/2603.25750)/[Demo](https://kyudan1.github.io/sommelier.github.io//)/[Github](https://github.com/naver-ai/sommelier)/[Blog](https://clova.ai/en/tech-blog/conversation-doesnt-wait-its-turn-sommelier-a-data-pipeline-for-real-time-conversational-voice-ai) |
 | **SmoothConv & DuplexConv: Large-Scale Chinese Full-Duplex Speech Datasets for Conversational AI** | 2026 | Data + code | [Github](https://github.com/qualialabsAI/SmoothConv-DuplexConv)/[Demo](https://qualialabsai.github.io/SmoothConv-DuplexConv)/[Huggingface](https://huggingface.co/datasets/qualialabsAI) |
