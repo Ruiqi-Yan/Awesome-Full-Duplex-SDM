@@ -34,6 +34,7 @@ A curated list of full-duplex spoken dialogue models.
 | **DuplexChat** | 2026 | Data + code | [Github](https://github.com/sarulab-speech/DuplexChat)/[Huggingface](https://huggingface.co/datasets/sarulab-speech/DuplexChat) |
 | **SOMMELIER: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models** | 2026 | Code (pipeline) | [arXiv](https://arxiv.org/abs/2603.25750)/[Demo](https://kyudan1.github.io/sommelier.github.io//)/[Github](https://github.com/naver-ai/sommelier)/[Blog](https://clova.ai/en/tech-blog/conversation-doesnt-wait-its-turn-sommelier-a-data-pipeline-for-real-time-conversational-voice-ai) |
 | **SmoothConv & DuplexConv: Large-Scale Chinese Full-Duplex Speech Datasets for Conversational AI** | 2026 | Data + code | [Github](https://github.com/qualialabsAI/SmoothConv-DuplexConv)/[Demo](https://qualialabsai.github.io/SmoothConv-DuplexConv)/[Huggingface](https://huggingface.co/datasets/qualialabsAI) |
+| **TURNS-2K** | 2025 | Data | [Github](https://github.com/latishab/turnsense)/[Huggingface](https://huggingface.co/datasets/latishab/turns-2k) |
 
 
 
@@ -61,6 +62,7 @@ A curated list of full-duplex spoken dialogue models.
 | **Covo-Audio** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2602.09823)/[Github](https://github.com/Tencent/Covo-Audio)/[Huggingface](https://huggingface.co/tencent/Covo-Audio-Chat) |
 | **SoulX-Duplug: Plug-and-Play Streaming State Prediction Module for Realtime Full-Duplex Speech Conversation** | 2026 | Component — semantic VAD | Code + weights | [arXiv](https://arxiv.org/abs/2603.14877)/[Github](https://github.com/Soul-AILab/SoulX-Duplug)/[Huggingface](https://huggingface.co/Soul-AILab/SoulX-Duplug-0.6B)/[Demo](https://soulx-duplug.sjtuxlance.com/) |
 | **PHOENIX-VAD: STREAMING SEMANTIC ENDPOINT DETECTION FOR FULL-DUPLEX SPEECH INTERACTION** | 2025 | Component — VAD/endpointing | — | [arXiv](https://arxiv.org/abs/2509.20410) |
+| **Turnsense: A Lightweight End-of-Utterance Detection Model** | 2025 | Component — turn detection | Code + weights | [Github](https://github.com/latishab/turnsense)/[Huggingface](https://huggingface.co/latishab/turnsense) |
 | **EASY TURN: INTEGRATING ACOUSTIC AND LINGUISTIC MODALITIES FOR ROBUST TURN-TAKING IN FULL-DUPLEX SPOKEN DIALOGUE SYSTEMS** | 2025 | Component — turn detection | Code | [arXiv](https://arxiv.org/abs/2509.23938)/[Github](https://github.com/ASLP-lab/Easy-Turn)/[Demo](https://aslp-lab.github.io/Easy-Turn/) |
 | **Fun-Audio-Chat** | 2025 | End-to-end | Code | [arXiv](https://arxiv.org/pdf/2512.20156)/[Github](https://github.com/FunAudioLLM/Fun-Audio-Chat)/[Demo](https://funaudiollm.github.io/funaudiochat) |
 | **FireRedChat: A Pluggable, Full-Duplex Voice Interaction System with Cascaded and Semi-Cascaded Implementations** | 2025 | Cascaded | Code | [arXiv](https://arxiv.org/pdf/2509.06502)/[Github](https://github.com/FireRedTeam/FireRedChat)/[Demo](https://fireredteam.github.io/demos/firered_chat/) |
