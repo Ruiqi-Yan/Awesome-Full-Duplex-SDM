@@ -41,7 +41,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
-| **X2-Turn: Frame-Synchronous Dual-Head Modeling for Joint Streaming ASR and Turn State Prediction** | 2026 | Component — semantic VAD | — | [arXiv](https://arxiv.org/abs/2608.10878) |
+| **X2-Turn: Frame-Synchronous Dual-Head Modeling for Joint Streaming ASR and Turn State Prediction** | 2026 | Component — semantic VAD | Code + weights | [arXiv](https://arxiv.org/abs/2608.10878)/[Github](https://github.com/X-Square-Robot/X2-Turn)/[Huggingface](https://huggingface.co/x-square-robot/X2-Turn-4B-0812) |
 | **JoyAI-Talker: Full-Duplex Speech Interactive Large Model Built for Empathetic Voice Agents** | 2026 | Cascaded | — | [arXiv](https://arxiv.org/abs/2608.01119) |
 | **Qwen Audio Agent** | 2026 | Cascaded | Code | [Github](https://github.com/QwenAudio/qwen-audio-agent) |
 | **Dual-Axis Generative Reward Model Toward Semantic and Turn-taking Robustness in Interactive Spoken Dialogue Models** | 2026 | Method | Code | [arXiv](https://arxiv.org/abs/2604.14920)/[Github](https://github.com/MM-Speech/DualAxisRM) |
