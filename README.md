@@ -98,6 +98,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Benchmark
 | Title | Year | Relevant&nbsp;Resources |
 |:--|:-:|:-:|
+| **TurnBench: A Multi-Domain Benchmark for Turn-Taking Dynamics in Spoken Dialogue** | 2026 | [arXiv](https://arxiv.org/abs/2608.25218)/[Demo](https://turnbench.sesame.com/)/[Dataset](https://turnbench.sesame.com/conversations)/[Github](https://github.com/SesameAILabs/turnbench) |
 | **Game-Time: Evaluating Temporal Dynamics in Spoken Language Models** | 2025 | [arXiv](https://arxiv.org/abs/2509.26388)/[Demo](https://ga642381.github.io/Game-Time)/[Dataset](https://huggingface.co/datasets/gametime-benchmark/gametime) |
 | **Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model** | 2026 | [arXiv](https://arxiv.org/abs/2603.24144)/[Github](https://github.com/xkx-hub/SID-bench) |
 | **Full-Duplex Interaction in Spoken Dialogue Systems: A Comprehensive Study from the ICASSP 2026 HumDial Challenge** | 2026 | [arXiv](https://arxiv.org/abs/2604.21406)/[Github](https://github.com/ASLP-lab/HumDial-FDBench)/[Dataset](https://huggingface.co/datasets/ASLP-lab/HumDial-FDBench) |
