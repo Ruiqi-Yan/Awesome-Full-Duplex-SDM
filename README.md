@@ -42,6 +42,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **Realtime-Venus: A full-duplex interaction system with asynchronous delegation** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2609.13814)/[Github](https://github.com/inclusionAI/Realtime-Venus)/[Huggingface](https://huggingface.co/inclusionAI/Realtime-Venus)/[Demo](https://realtime-venus.github.io/) |
 | **SteerDuplex: Steerable Duplex Speech Dialogue Models** | 2026 | End-to-end | To be released | [arXiv](https://arxiv.org/abs/2609.12623)/[Github](https://github.com/Utkarsh4430/SteerDuplex) |
 | **Omni Interaction Agent Technical Report** | 2026 | Cascaded | Code + weights | [arXiv](https://arxiv.org/abs/2609.08977)/[Github](https://github.com/Omni-Interaction-Gander/Omni-Interaction-Agent)/[Huggingface](https://huggingface.co/Gander-Omni/Gander)/[Demo](https://omni-interaction-gander.github.io/Omni-Interaction-Agent) |
 | **X2-Turn: Frame-Synchronous Dual-Head Modeling for Joint Streaming ASR and Turn State Prediction** | 2026 | Component — semantic VAD | Code + weights | [arXiv](https://arxiv.org/abs/2608.10878)/[Github](https://github.com/X-Square-Robot/X2-Turn)/[Huggingface](https://huggingface.co/x-square-robot/X2-Turn-4B-0812) |
