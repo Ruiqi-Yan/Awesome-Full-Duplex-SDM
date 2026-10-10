@@ -42,6 +42,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **DuplexJev: Batched Speech Decisions Without Decoding** | 2026 | Component | Code + weights | [arXiv](https://arxiv.org/abs/2610.02638)/[Github](https://github.com/adventists-ai/duplexjev)/[Huggingface](https://huggingface.co/adventists-ai)/[Demo](https://adventists-ai.github.io/duplexjev/) |
 | **Context Spanning: A Communication Framework for Full-Duplex Speech Models and External LLM Backends** | 2026 | Component — retrieval | Code + weights | [arXiv](https://arxiv.org/abs/2609.33443)/[Github](https://github.com/mindlogic-ai/Context-Spanning)/[Huggingface](https://huggingface.co/mindlogicinc/context-spanning-7b) |
 | **Realtime-Venus: A full-duplex interaction system with asynchronous delegation** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2609.13814)/[Github](https://github.com/inclusionAI/Realtime-Venus)/[Huggingface](https://huggingface.co/inclusionAI/Realtime-Venus)/[Demo](https://realtime-venus.github.io/) |
 | **SteerDuplex: Steerable Duplex Speech Dialogue Models** | 2026 | End-to-end | To be released | [arXiv](https://arxiv.org/abs/2609.12623)/[Github](https://github.com/Utkarsh4430/SteerDuplex) |
