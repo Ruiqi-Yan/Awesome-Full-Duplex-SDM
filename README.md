@@ -42,6 +42,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **Diffuplex: Full-duplex Spoken Language Modeling with Discrete Diffusion** | 2026 | End-to-end | To be released | [arXiv](https://arxiv.org/abs/2610.17780)/[Demo](https://cchen1436.github.io/diffuplex-website/) |
 | **D2: High-Capability Full-Duplex Spoken Language Models from Half-Duplex Backbones** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2610.17124)/[Github](https://github.com/penguinfish1688/D2-dialogue-to-duplex)/[Huggingface](https://huggingface.co/penguinfish1688/dialogue-to-duplex)/[Demo](https://d2-duplex-demo.github.io/) |
 | **DuplexJev: Batched Speech Decisions Without Decoding** | 2026 | Component | Code + weights | [arXiv](https://arxiv.org/abs/2610.02638)/[Github](https://github.com/adventists-ai/duplexjev)/[Huggingface](https://huggingface.co/adventists-ai)/[Demo](https://adventists-ai.github.io/duplexjev/) |
 | **Context Spanning: A Communication Framework for Full-Duplex Speech Models and External LLM Backends** | 2026 | Component — retrieval | Code + weights | [arXiv](https://arxiv.org/abs/2609.33443)/[Github](https://github.com/mindlogic-ai/Context-Spanning)/[Huggingface](https://huggingface.co/mindlogicinc/context-spanning-7b) |
