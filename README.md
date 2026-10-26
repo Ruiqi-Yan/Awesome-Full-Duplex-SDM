@@ -106,6 +106,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Benchmark
 | Title | Year | Relevant&nbsp;Resources |
 |:--|:-:|:-:|
+| **Turn-Taking Naturalness** | 2026 | [Github](https://github.com/TedZhangHao/turn-taking-naturalness) |
 | **TurnBench: A Multi-Domain Benchmark for Turn-Taking Dynamics in Spoken Dialogue** | 2026 | [arXiv](https://arxiv.org/abs/2608.25218)/[Demo](https://turnbench.sesame.com/)/[Dataset](https://turnbench.sesame.com/conversations)/[Github](https://github.com/SesameAILabs/turnbench) |
 | **Game-Time: Evaluating Temporal Dynamics in Spoken Language Models** | 2025 | [arXiv](https://arxiv.org/abs/2509.26388)/[Demo](https://ga642381.github.io/Game-Time)/[Dataset](https://huggingface.co/datasets/gametime-benchmark/gametime) |
 | **Semantic-Aware Interruption Detection in Spoken Dialogue Systems: Benchmark, Metric, and Model** | 2026 | [arXiv](https://arxiv.org/abs/2603.24144)/[Github](https://github.com/xkx-hub/SID-bench) |
