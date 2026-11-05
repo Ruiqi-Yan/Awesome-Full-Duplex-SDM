@@ -42,6 +42,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **Alba: LFM3-Audio-2B fine-tuned for full duplex on a 4 GB laptop GPU, with frozen tests and a failure analysis** | 2026 | End-to-end | Code + weights | [Github](https://github.com/Echolonius/alba-duplex-research) |
 | **Dessa** | 2026 | End-to-end | - | [Demo](https://block.xyz/dessa) |
 | **Diffuplex: Full-duplex Spoken Language Modeling with Discrete Diffusion** | 2026 | End-to-end | To be released | [arXiv](https://arxiv.org/abs/2610.17780)/[Demo](https://cchen1436.github.io/diffuplex-website/) |
 | **D2: High-Capability Full-Duplex Spoken Language Models from Half-Duplex Backbones** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2610.17124)/[Github](https://github.com/penguinfish1688/D2-dialogue-to-duplex)/[Huggingface](https://huggingface.co/penguinfish1688/dialogue-to-duplex)/[Demo](https://d2-duplex-demo.github.io/) |
