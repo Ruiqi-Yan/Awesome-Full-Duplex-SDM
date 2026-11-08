@@ -30,6 +30,9 @@ A curated list of full-duplex spoken dialogue models.
 ## Datasets
 | Title | Year | Open | Relevant&nbsp;Resources |
 |:--|:-:|:-:|:-:|
+| **otoSpeech-full-duplex-turn-104h: Full-Duplex Conversational Speech with Turn-Taking Annotations** | 2026 | Data | [Huggingface](https://huggingface.co/datasets/otoearth/otoSpeech-full-duplex-turn-104h)/[TurnBench](https://turnbench.sesame.com/)/[Catalog](https://www.fullduplex.ai/datasets/otospeech-fd-turn-104h) |
+| **otoSpeech-full-duplex-task-oriented-20h: Full-Duplex Task-Oriented Conversations** | 2026 | Data | [Huggingface](https://huggingface.co/datasets/otoearth/otoSpeech-full-duplex-task-oriented-20h)/[Catalog](https://www.fullduplex.ai/datasets/otospeech-fd-task-20h) |
+| **otoSpeech-full-duplex-280h: Full-Duplex Conversational Speech Dataset** | 2026 | Data | [Huggingface](https://huggingface.co/datasets/otoearth/otoSpeech-full-duplex-280h)/[Catalog](https://www.fullduplex.ai/datasets/otospeech-fd-280h) |
 | **MultiTalk: Scaling Full-Duplex Speech Models to Long, Multi-Party, Bilingual Conversation** | 2026 | Data | [arXiv](https://arxiv.org/abs/2609.36903)/[Huggingface](https://huggingface.co/MultiTalk) |
 | **ConversationalVoice: Full-Duplex Speech Data from Real Conversations** | 2026 | Code | [arXiv](https://arxiv.org/abs/2609.08147)/[Github](https://github.com/avera-labs/ConversationalVoice)/[Demo](https://avera-labs.github.io/ConversationalVoice/) |
 | **DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues** | 2026 | Data + code | [arXiv](https://arxiv.org/abs/2607.26178)/[Github](https://github.com/duplexgen/duplexgen-code)/[Huggingface](https://huggingface.co/DuplexGen)/[Demo](https://duplexgen.github.io/) |
