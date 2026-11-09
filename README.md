@@ -46,6 +46,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **Sophon-Realtime v1** | 2026 | Cascaded | Code + weights | [Github](https://github.com/adventists-ai/sophon-realtime)/[HF-Tag](https://huggingface.co/adventists-ai/Sophon-Realtime-32B-Tag)/[HF-Flash](https://huggingface.co/adventists-ai/Sophon-Realtime-32B-Flash) |
 | **Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models** | 2026 | Method | To be released | [arXiv](https://arxiv.org/abs/2611.06982)/[Github](https://github.com/petrichor20211/Speculative-Listening) |
 | **Awaken: Efficient Full-Duplex Adaptation with Capability Retention** | 2026 | End-to-end | Code + weights | [Github](https://github.com/avera-labs/AwakenFullDuplex)/[Huggingface](https://huggingface.co/openmartdev/awaken-full-duplex)/[Demo](https://avera-labs.github.io/AwakenFullDuplex/) |
 | **MuDuSi: A Multi-Agent Acoustic Simulator for Full-Duplex Speech Language Models** | 2026 | Framework | Code | [Github](https://github.com/KyuDan1/MuDuSi)/[Report](https://kyudan1.github.io/MuDuSi/paper/)/[Demo](https://kyudan1.github.io/MuDuSi/) |
