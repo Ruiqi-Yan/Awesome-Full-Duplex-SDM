@@ -46,6 +46,7 @@ A curated list of full-duplex spoken dialogue models.
 ## Models
 | Title | Year | Type | Open | Relevant&nbsp;Resources |
 |:--|:-:|:--|:-:|:-:|
+| **Duopra: From Full-Duplex Conversation to Full-Duplex Agency** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2611.25773)/[Github](https://github.com/cyChen2003/duopra)/[Huggingface](https://huggingface.co/Chechen123/Duopra)/[Demo](https://cychen2003.github.io/duopra/) |
 | **Duo: A Reciprocal World Model for Full-Duplex Interaction** | 2026 | End-to-end | Code + weights | [arXiv](https://arxiv.org/abs/2611.15131)/[Github](https://github.com/inclusionAI/Duo)/[Huggingface](https://huggingface.co/collections/inclusionAI/duo-v1)/[Demo](https://duo-v1.github.io/) |
 | **Sophon-Realtime v1** | 2026 | Cascaded | Code + weights | [Github](https://github.com/adventists-ai/sophon-realtime)/[HF-Tag](https://huggingface.co/adventists-ai/Sophon-Realtime-32B-Tag)/[HF-Flash](https://huggingface.co/adventists-ai/Sophon-Realtime-32B-Flash) |
 | **Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models** | 2026 | Method | To be released | [arXiv](https://arxiv.org/abs/2611.06982)/[Github](https://github.com/petrichor20211/Speculative-Listening) |
